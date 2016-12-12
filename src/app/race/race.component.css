@@ -67,6 +67,10 @@
   margin: 0 0;
 }
 
+.race-info a {
+  color:white;
+}
+
 .race-info td:last-child {
   padding: 0 20px;
 }
